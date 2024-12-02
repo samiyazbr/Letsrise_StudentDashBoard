@@ -1,4 +1,4 @@
-This is a simple student dashboard front-end using react
+This is a simple student dashboard front-end design using react
 
 ### How to run:
 > npm install \
